@@ -1,1 +1,2 @@
 This is first file after git intilization 
+New chages made to the file
